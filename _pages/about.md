@@ -4,6 +4,6 @@ permalink: /about/
 layout: single
 ---
 
-## SNU-CEE.github.io 블로그
+# ABOUT
 
 이 블로그는 김학순의 블로그이다.
