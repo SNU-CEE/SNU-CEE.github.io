@@ -1,11 +1,8 @@
 ---
-title: "Contact"
-permalink: /contact/
+title: "Research"
+permalink: /research/
 layout: single
 ---
-
-# RESEARCH
-
 
 ## Project
 

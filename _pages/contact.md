@@ -3,8 +3,6 @@ title: "Contact"
 permalink: /contact/
 layout: single
 ---
-
-# CONTACT
 ## 서울대학교 건설환경공학부
 ### E-mail: bafflesoon@snu.ac.kr
 ### GitHub : https://github.com/SNU-CEE
